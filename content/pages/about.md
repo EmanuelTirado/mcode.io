@@ -1,7 +1,7 @@
 ---
 title: "About me"
 template: "page"
-socialImage: "/media/image-2.jpg"
+socialImage: "photo.jpg"
 ---
 
 Hello there! Emanuel here. I am a software engineer based in Florida. I specialize in making web applications (front and back end) and data analytics.
