@@ -4,10 +4,17 @@ template: "page"
 socialImage: "/media/image-2.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+Hello there! Emanuel here. I am a software engineer based in Florida. I specialize in making web applications (front and back end) and data analytics.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+Here's some information about my professional credentials:  I attended Florida Polytechnic University where I obtained a Bachelor's Degree in Computer Science with a concentration in Cyber Security and Information Assurance.  I also have a Master's of Science in Business Analytics and Information Systems from the University of South Florida. 
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
-
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+I am always looking to learn new things and enjoy sharing my knowledge with others. My interests include:
+* All things `JavaScript`
+* Data analytics
+* Machine learning 
+* Graph databases
+* `R-lang`
+* `Python`
+* `SQL`
+* `.NET`
+* `Elixir`
