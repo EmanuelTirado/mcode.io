@@ -6,7 +6,7 @@ module.exports = {
   title: 'Blog by Emanuel Tirado',
   subtitle: 'Random musings of a software engineer.',
   copyright: '© All rights reserved.',
-  disqusShortname: '',
+  disqusShortname: 'mcode-io',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
   useKatex: false,
